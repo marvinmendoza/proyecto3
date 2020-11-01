@@ -14,8 +14,8 @@
     <body>
         <h1>Menu Carrera</h1>
         <a href="CrearCarrera.jsp">1. CREAR CLIENTE</a><br>
-        <a href="ListaCarrera.jsp">2. VER LISTA DE CLIENTES</a><br>
+        <a href="ListaCarrera.jsp">2. VER  LISTA DE CLIENTES</a><br>
         <a href="IngresarProd.jsp">3. INGRESAR PRODUCTO</a><br>
-        <a href="VerProductos.jsp">4. VER PRODUCTOS</a><br>
+        <a href="VerProductos.jsp">4. VER  PRODUCTOS</a><br>
     </body>
 </html>

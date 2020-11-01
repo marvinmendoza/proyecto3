@@ -1,6 +1,6 @@
 package edu.umg.modelo;
 
-
+//constructor
 public class Carrera {
     private int codigo;
     private String nombre;

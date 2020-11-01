@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
-
+//78
 /**
  * Esta clase nos presenta los mecanismo para acceder a la base de datos
  * y manejar la información de la tabla carrera

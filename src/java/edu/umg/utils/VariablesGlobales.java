@@ -5,12 +5,12 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
+//56
 
 public class VariablesGlobales {
 
  
-    
+    //conexion
     
      public static final String DRIVER_DB = "org.postgresql.Driver";
     public static final String URL_DB ="jdbc:postgresql://localhost:5432/DB" ; 
